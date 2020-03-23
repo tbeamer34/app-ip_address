@@ -79,5 +79,4 @@ class IpAddress {
         return callback(firstIpAddress, callbackError);
     }
 }
-
 module.exports = new IpAddress;
